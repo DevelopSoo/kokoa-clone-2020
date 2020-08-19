@@ -1,3 +1,7 @@
+.more-screen {
+  padding-top: 15px;
+}
+
 .more-suggestions {
   padding: var(--horizontal-space);
   border-top: var(--main-border);
