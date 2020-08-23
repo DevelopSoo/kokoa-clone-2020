@@ -44,7 +44,7 @@
   padding: 15px;
   font-size: 14px;
   border-radius: 25px;
-  margin-bottom: 25px;
+  margin: 25px 0px;
 }
 @keyframes leftMessageFadeIn {
   from {
