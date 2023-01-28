@@ -1,3 +1,3 @@
-# KoKoa Clone 2020 Update
+# HTML, CSS 학습을 위한 카카오톡 클론 프로젝트
 
-HTML & CSS are so much fun!
+코딩의 첫 시작으로 기본적인 HTML, CSS를 학습 및 적용을 위한 클론 프로젝트 
